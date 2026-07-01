@@ -10,3 +10,18 @@ Also you can see all explanation of the code in this video: https://www.youtube.
 
 
 Code: https://colab.research.google.com/drive/1DV5NL3LdND4prvjWyHhsgNFQ6__wEr7O?usp=sharing
+
+
+If you want to do it on your local machine:
+
+
+First step: Just download the .txt (OpenWebCorps.txt, Tolstoy.txt(example)) file
+
+
+Second step: Run the out_train_out_valid_vocab_maker.py 
+
+
+Third step: Run Chat_GPT_2.0.py
+
+
+Fourth step: Enjoy!
