@@ -15,7 +15,7 @@ Code: https://colab.research.google.com/drive/1DV5NL3LdND4prvjWyHhsgNFQ6__wEr7O?
 If you want to do it on your local machine:
 
 
-First step: Just download the .txt (OpenWebCorpus.xz, Tolstoy.txt(example)) file
+First step: openwebtext.tar.xz file (link for downloading is here: https://zenodo.org/records/3834942)
 
 
 Second step: Run the out_train_out_valid_vocab_maker.py 
